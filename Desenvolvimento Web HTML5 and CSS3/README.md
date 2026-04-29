@@ -20,7 +20,7 @@ O objetivo é demonstrar habilidades de **desenvolvimento front-end**, **estiliz
 ## 🚀 Projetos Desenvolvidos
 
 1. **Projeto Awax** – Exercício de layout com HTML e CSS básico. (<a href="https://novaes11.github.io/Awax/">Deploy</a>/<a href="https://github.com/novaes11/Awax">Repositório</a>)  
-2. **Projeto Starbucks** – Layout responsivo utilizando Flexbox e Grid.  (<a href="https://novaes11.github.io/Starbucks-copy/">Deploy</a>/<a href="https://github.com/novaes11/Starbucks-copy">Repositório</a>)  
+2. **Projeto Starbucks** – Layout responsivo utilizando Flexbox e Grid.  (<a href="https://html-css-annotation-8mio.vercel.app/">Deploy</a>/<a href="https://github.com/novaes11/Starbucks-copy">Repositório</a>)  
 3. **Projeto B7Burger** – Integração de HTML e CSS avançado, prática de responsividade e design moderno.  (<a href="https://novaes11.github.io/B7burguer/">Deploy</a>/<a href="https://github.com/novaes11/B7burguer">Repositório</a>)  
 
 Cada projeto foi desenvolvido para aplicar conceitos estudados em **cenários reais**, reforçando a capacidade de transformar design em código funcional.
