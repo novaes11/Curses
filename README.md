@@ -1,4 +1,4 @@
-# 📚 Curses
+# 📚 Cursos
 
 Este repositório tem como objetivo **reunir e organizar os cursos que concluí**, servindo como um portfólio de aprendizado contínuo.  
 
